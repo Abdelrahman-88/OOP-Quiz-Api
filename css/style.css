@@ -172,3 +172,9 @@ span {
 #result {
     color: #653383;
 }
+
+@media screen and (max-width:768px){
+    .content{
+        width: 90% !important;
+    }
+}
